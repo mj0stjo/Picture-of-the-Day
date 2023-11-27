@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](/Licence.md), allowing for both
 
 Thank you for your interest in "Picture of the Day"! If you have any questions or need further assistance, don't hesitate to reach out.
 
-[Contact Me](mailto:mj0st.jo@gmail.com) | [Visit My Blog]([link/to/your/blog](https://mj0stjo.github.io/blog/)) | [My Projects]([link/to/your/github/repository](https://mj0stjo.github.io/projects/))
+[Contact Me](mailto:mj0st.jo@gmail.com) | [Visit My Blog](https://mj0stjo.github.io/blog/) | [My Projects](https://mj0stjo.github.io/projects/)
