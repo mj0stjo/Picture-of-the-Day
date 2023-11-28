@@ -4,7 +4,7 @@
 
 "Picture of the Day" is a digital calendar application written in Java, utilizing JavaFX for graphics. The main concept behind the project is to showcase a unique picture for every day of the year. The application automatically launches on startup, displaying the current day's picture. Users can also navigate through previous pictures using a dedicated button.
 
-For more detailed insights into the project and its development, please refer to [my blog post](link/to/your/blog/post).
+For more detailed insights into the project and its development, please refer to [my blog post](https://mj0stjo.github.io/blog/2023/potd/).
 
 ## Features
 
